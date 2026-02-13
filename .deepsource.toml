@@ -20,3 +20,5 @@ pattern = "static/**"
 
 [[exclude_patterns]]
 pattern = ".sanity/**"
+
+# Trigger DeepSource re-analysis
